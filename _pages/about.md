@@ -3,12 +3,12 @@ layout: about
 title: about
 permalink: /
 # subtitle: Incoming Assistant Professor at Georgia Tech (January 2024) and Caltech PhD Student studying human-robotic interaction and control of a lower-body exoskeleton.
-header:
-  image: images/exo_demo_crop.jpg
+#header:
+#  image: images/exo_demo_crop.jpg
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
-  # align: right
-  # image: prof_pic.jpg
+  align: left
+  image: prof_pic.jpg
   # image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
