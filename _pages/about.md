@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affliated Labs @MSU: <a href="https://www.writingresearch.net/">WRITE Lab</a>. <a href='https://create4stem.msu.edu/'>MSU CREATE for STEM</a>. <a href='https://beyondmultiplechoice.org/'>AACR Lab</a>.
+subtitle: Affliated Labs @MSU{: }<a href="https://www.writingresearch.net/">WRITE Lab</a>, <a href='https://create4stem.msu.edu/'>MSU CREATE for STEM</a>, <a href='https://beyondmultiplechoice.org/'>AACR Lab</a>.
 #header:
 #  image: images/exo_demo_crop.jpg
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: left
-  image: assets/img/prof_pic.jpg
+  image: img/prof_pic.jpg #assets/img/prof_pic.jpg
   # image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
