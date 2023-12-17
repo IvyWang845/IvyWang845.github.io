@@ -8,7 +8,7 @@ subtitle: Affiliated Labs@MSU <a href="https://www.writingresearch.net/">WRITE L
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: left
-  image: publication_preview/prof_pic.jpg #assets/img/prof_pic.jpg
+  image: prof_pic.jpg #assets/img/prof_pic.jpg
   # image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
