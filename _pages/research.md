@@ -2,7 +2,7 @@
 layout: default
 permalink: /research/
 title: research
-categories: [Locomotion, HRI, Rehab.]
+categories: [Learning Differences, Instruction & Curriculum, Assessment & Measurement]
 description:  
 nav: true
 nav_order: 1
@@ -10,11 +10,11 @@ dropdown: true
 children:
     - title: "Overview"
       permalink: /research/
-    - title: "Thread 1: Locomotion"
+    - title: "Thread 1: Learning Differences"
       permalink: /research/locomotion
-    - title: "Thread 2: HRI"
+    - title: "Thread 2: Instruction & Curriculum"
       permalink: /research/hri
-    - title: "Thread 3: Assistance"
+    - title: "Thread 3: Assessment & Measurement"
       permalink: /research/assistive-devices
     - title: All Publications
       permalink: /publications/
