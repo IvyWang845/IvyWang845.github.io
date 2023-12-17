@@ -19,11 +19,11 @@ recent_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Maegan Tucker. I'm an <a href='https://twitter.com/maegan_tucker1/status/1602433014713098240'>incoming Assistant Professor</a> at Georgia Tech (starting January 2024). My research is centered around achieving stable and user-preferred locomotion using formal methods from both **nonlinear control theory** and **machine learning**, with specific applications towards **robotic assistive devices**. 
-<!-- My research has been supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). -->
-Aside from my research, I am deeply passionate about furthering DEI efforts within the robotics community. 
-<!-- Towards this, I was involved in several Caltech DEI efforts such as [Future Ignited](https://sfp.caltech.edu/diversity-equity-and-inclusion-programs/futures-ignited), [Freshman Summer Research Institute (FSRI)](https://diversity.caltech.edu/programs-training/freshman-summer-research-institute-fsri), and [Rise Tutoring](https://www.caltechy.org/rise-tutor).  -->
-If you are interested in discussing either my research, please reach out at ``mtucker@gatech.edu``!
+Greetings, and thank you for visiting my academic homepage! I am a Ph.D. candidate in Special Education with a concentration on Language and Literacy at <a href="https://education.msu.edu/">Michigan State University</a>, under the expert guidance of Dr. <a href="https://education.msu.edu/people/troia-gary/">Gary A. Troia</a>. In addition, I hold the position of graduate research assistant at the <a href="https://create4stem.msu.edu/">CREATE for STEM Institute</a>, where I collaborate under the mentorship of Dr. <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/100471?org=6&group=63">Kevin C. Haudek</a>.
+
+I earned my M.A in Language Education from <a href="https://ehe.osu.edu/">Ohio State University</a> and B.A in English Linguistic from <a href="https://en.nenu.edu.cn/">Northeast Normal University</a> (ranking among the top 3 Teaching Colleges in China). As an education researcher, I deploy a diverse range of **statistical methodologies**, including qualitative, quantitative, mixed methods, alongside **artificial intelligence driven techniques** such as machine learning, natural language processing techniques, and pretrained language representation models. These approaches allow me to delve into the complexities of literacy and language development among diverse learners, including those receiving special education services, across grade levels from K to 16 education.
+
+If you are interested in discussing my research, please reach out at ``wangheq2@msu.edu``!
 
 <center>
 <a href="/research/" class="btn btn-sm z-depth-0" role="button">Research Overview</a>
