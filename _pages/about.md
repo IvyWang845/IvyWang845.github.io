@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affiliations <a href='#'>Affiliations</a>.
+subtitle: Affiliated Labs: <a href="https://www.writingresearch.net/">WRITE Lab</a>, <a href='https://create4stem.msu.edu/'>MSU CREATE for STEM</a>, <a href='https://beyondmultiplechoice.org/'>AACR Lab</a>.
 #header:
 #  image: images/exo_demo_crop.jpg
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
