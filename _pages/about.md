@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Affiliations <a href='#'>Affiliations</a>.
 #header:
 #  image: images/exo_demo_crop.jpg
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
