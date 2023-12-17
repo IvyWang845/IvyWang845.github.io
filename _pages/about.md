@@ -8,7 +8,7 @@ permalink: /
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: left
-  image: prof_pic.jpg
+  image: images/exo_demo_crop.jpg
   # image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
