@@ -48,7 +48,7 @@ children:
 
   <h2 class="year">{{c}}</h2>
 
-  {% bibliography -f papers -q @*[category={{c}}]* %}
+  {% bibliography -f papers -q @*[category=*]* %}
 
 {% endfor %}
 </div>
