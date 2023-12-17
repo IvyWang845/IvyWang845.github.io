@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Maegan
-middle_name: 
-last_name: Tucker
-# email: mtucker@gatech.edu  
+first_name: Heqiao
+middle_name: Ivy
+last_name: Wang
+# email: mtucker@gatech.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Maegan Tucker
+  Personal website of Heqiao Wang
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,9 +17,9 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url                      : https://maegant.github.io  # the base hostname & protocol for your site
+url                      : https://ivywang845.github.io  # the base hostname & protocol for your site
 baseurl                  :  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -66,18 +66,18 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: maegant
+github_username: IvyWang845
 gitlab_username: # your GitLab user name
-twitter_username: maegan_tucker1
-linkedin_username: # your LinkedIn user name
-scholar_userid: mgQTjk0AAAAJ&hl=en
+twitter_username:
+linkedin_username: heqiao-wang-b70b52137 # your LinkedIn user name
+scholar_userid: M68p2esAAAAJ&hl
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0003-0804-5070 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Heqiao_Wang3 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -94,13 +94,13 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  To reach me, please email <tt>mtucker@gatech.edu</tt>
+  To reach me, please email <tt>wangheq2@msu.edu</tt>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  G-5GJKWD5TRC # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:   # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -347,4 +347,3 @@ mdb:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
-  
