@@ -7,7 +7,7 @@ description:
 nav: true
 nav_order: 1
 dropdown: true
-children: 
+children:
     - title: "Overview"
       permalink: /research/
     - title: "Thread 1: Locomotion"
@@ -21,7 +21,7 @@ children:
 ---
 
 <center>    
-    <h4> My research aims to develop and unify techniques from both <br> <i>nonlinear control theory</i> and <i>machine learning</i> <br>to systematically achieve stable and robust robotic-assisted locomotion. This includes developing efficient methods of user customization via human-robot interaction as well as studying the efficacy of assisted locomotion in clinical settings. 
+    <h4> My research aims to develop and unify techniques from both prominent educational theories and statistical methods and AI-driven models to explore the complexities of language, ultimately enhancing students' learning experiences. This involves developing a nuanced understanding of the structure of written expression, exploring individual learning differences in literacy-related skills, and examining how classroom practices and assessments shape the overall learning atmosphere.
     <!-- <b>Bipedal Locomotion</b>, <b>Human Robot Interaction</b>, and <b>Lower-Body Assistive Devices</b>. -->
     </h4>
 </center>
@@ -29,15 +29,15 @@ children:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="images/papers/icra2021-hzd.png" class="img-fluid rounded z-depth-1" overlay="Bipedal Locomotion" 
+        {% include figure.html path="images/papers/icra2021-hzd.png" class="img-fluid rounded z-depth-1" overlay="Bipedal Locomotion"
             overlay-url="/research/locomotion" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="images/papers/cospar.png" class="img-fluid rounded z-depth-1" overlay="Human-Robot Interaction" 
+        {% include figure.html path="images/papers/cospar.png" class="img-fluid rounded z-depth-1" overlay="Human-Robot Interaction"
         overlay-url="/research/hri" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="images/papers/spinal.png" class="img-fluid rounded z-depth-1" overlay="Lower-Body Assistive Devices" 
+        {% include figure.html path="images/papers/spinal.png" class="img-fluid rounded z-depth-1" overlay="Lower-Body Assistive Devices"
         overlay-url="/research/assistive-devices" %}
     </div>
 </div>
@@ -47,9 +47,8 @@ children:
 {%- for c in page.categories %}
 
   <h2 class="year">{{c}}</h2>
-  
+
   {% bibliography -f papers -q @*[category={{c}}]* %}
 
 {% endfor %}
 </div>
-
