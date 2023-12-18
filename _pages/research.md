@@ -44,7 +44,7 @@ children:
 
 <!-- _pages/publications.md -->
 <div class="publications">
-{%- for c in page.years %}
+{%- for c in page.categories %}
 
   <h2 class="year">{{c}}</h2>
 
