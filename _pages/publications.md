@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications, projects and conferences
 description: publications by categories in reversed chronological order.
 sort_by: descending
-nav: true
+nav: false
 nav_order: 2
 ---
 
