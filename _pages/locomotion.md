@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/locomotion
+permalink: /research/learning
 title: Learning Differences
 header:
     image: images/papers/icra2021-hzd.png

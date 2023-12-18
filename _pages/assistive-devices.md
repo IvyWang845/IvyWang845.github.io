@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/assistive-devices
-title: Lower-Body Assistive Devices
+permalink: /research/assessment-measurement
+title: Assessment and Measurement
 header:
     image: images/papers/spinal.png
 description: Research thread aimed at evaluating the efficacy of lower-body assistive devices, including the clinical realization of user-preferred locomotion on robotic assistive devices.

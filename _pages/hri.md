@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/hri
-title: Human-Robot Interaction
+permalink: /research/instruction-curriculum
+title: Instruction and Curriculum
 header:
     image: images/papers/cospar.png
 description: Research thread aimed at customizing robotic assistance by learning directly from human feedback.
