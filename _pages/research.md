@@ -29,15 +29,15 @@ children:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="images/papers/icra2021-hzd.png" class="img-fluid rounded z-depth-1" overlay="Learning Differences"
+        {% include figure.html path="images/papers/LD.jpg" class="img-fluid rounded z-depth-1" overlay="Learning Differences"
             overlay-url="/research/locomotion" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="images/papers/cospar.png" class="img-fluid rounded z-depth-1" overlay="Instruction and Curriculum"
+        {% include figure.html path="images/papers/curriculum.jpg" class="img-fluid rounded z-depth-1" overlay="Instruction and Curriculum"
         overlay-url="/research/hri" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="images/papers/spinal.png" class="img-fluid rounded z-depth-1" overlay="Assessment and Measurement"
+        {% include figure.html path="images/papers/AI.png" class="img-fluid rounded z-depth-1" overlay="Assessment and Measurement"
         overlay-url="/research/assistive-devices" %}
     </div>
 </div>

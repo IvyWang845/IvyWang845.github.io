@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /group/
-title: group@GT
+title: teaching
 description:  
 nav: true
 nav_order: 2
@@ -80,7 +80,7 @@ nav_order: 2
  </div> -->
 
   <!-- <div class="content list people"> -->
-	
+
   {% for person in all_people %}
       {% if person.position == 'alumni' %}
         {% include alumni.html position=person.position %}
@@ -90,4 +90,3 @@ nav_order: 2
 
 {% endfor %}
 <br>
-
