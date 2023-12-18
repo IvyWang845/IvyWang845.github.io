@@ -14,6 +14,6 @@ My research towards evaluating lower-body assistive devices thus far has include
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[category=Rehab.]* %}
+{% bibliography -f papers -q @*[category=Assessment & Measurement]* %}
 
 </div>
