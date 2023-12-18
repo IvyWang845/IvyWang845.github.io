@@ -21,7 +21,7 @@ children:
 ---
 
 <center>    
-    <h4> My research aims to develop and unify techniques from both prominent educational theories and statistical methods and AI-driven models to explore the complexities of language, ultimately enhancing students' learning experiences. This involves developing a nuanced understanding of the structure of written expression, exploring individual learning differences in literacy-related skills, and examining how classroom practices and assessments shape the overall learning atmosphere.
+    <h4> My research aims to develop and unify techniques from both prominent educational theories and statistical methods and AI-driven models to explore the complexities of language, ultimately enhancing students' learning experiences. This involves gaining a nuanced understanding of the structure of written expression, investigating individual learning differences in literacy-related skills, and examining how classroom practices and assessments shape the overall learning atmosphere.
     <!-- <b>Bipedal Locomotion</b>, <b>Human Robot Interaction</b>, and <b>Lower-Body Assistive Devices</b>. -->
     </h4>
 </center>
