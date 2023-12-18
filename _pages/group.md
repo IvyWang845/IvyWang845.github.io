@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /group/
+permalink: /teaching/
 title: teaching
 description:  
 nav: true
