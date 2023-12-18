@@ -23,7 +23,7 @@ nav_order: 2
   </div> -->
 
   <div class="justify-content-center">
-  {% include dynamicmobility.html %}
+  {% include teaching.html %}
   </div>
 
   <hr class="people-group">
