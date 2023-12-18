@@ -16,6 +16,6 @@ To date, my research towards bipedal locomotion has included systematically tuni
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[category=Learning Differences]* %}
+{% bibliography -f papers -q @*[category=Locomotion]* %}
 
 </div>
