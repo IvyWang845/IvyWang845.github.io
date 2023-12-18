@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/assessment-measurement
+permalink: /research/assistive-devices
 title: Assessment and Measurement
 header:
     image: images/papers/spinal.png
