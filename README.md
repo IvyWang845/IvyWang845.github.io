@@ -1,5 +1,5 @@
 # Setup
-Note that it is not possible to use the jekyll-Scholar plugin with the default Github pages workflow. Github does not allow any but a few select plugins to run for security reasons, and Jekyll-Scholar is not among them. You will either have to generate your site locally and push the results to the master resp. gh-pages branch of your site repository, or you can follow the instructions listed below in the Deployment section (what I chose to do).
+12 Note that it is not possible to use the jekyll-Scholar plugin with the default Github pages workflow. Github does not allow any but a few select plugins to run for security reasons, and Jekyll-Scholar is not among them. You will either have to generate your site locally and push the results to the master resp. gh-pages branch of your site repository, or you can follow the instructions listed below in the Deployment section (what I chose to do).
 
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
