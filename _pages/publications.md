@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: publications, projects, and conferences
+title: publications, projects and conferences
 description: publications by categories in reversed chronological order.
 sort_by: descending
-nav: false
+nav: true
 nav_order: 2
 ---
 
