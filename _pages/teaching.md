@@ -15,6 +15,7 @@ nav_order: 5
   <li>Class Size: A maximum of 24 students</li>
   <li>Duration: 3 hours per week for 15 weeks</li>
   <li>Semesters I have taught: Fall 2022, Spring 2023, Fall 2023</li>
+</ul>
 ## Teaching Assistant
     *
     *
