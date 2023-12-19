@@ -1,6 +1,6 @@
 ---
 title: "Master Portfolio"
-layout: single
+layout: page
 description: "Master porfolio"
 category: "milestones"
 # tags:
