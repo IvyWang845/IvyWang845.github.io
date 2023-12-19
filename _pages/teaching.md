@@ -2,20 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I assisted, taught
+description:
 nav: false
 nav_order: 5
 ---
 
 <div class="group-description">
-  <img src="{{site.baseurl}}/images/dynamicmobility/dm_logo3.png" alt="Dynamic Mobility Lab Logo" class="image image-light">
-  <img src="{{site.baseurl}}/images/dynamicmobility/dm_logo3_white.png" alt="Dynamic Mobility Lab Logo" class="image image-dark">
+  <img src="{{site.baseurl}}/images/dynamicmobility/msu_logo.png" alt="MSU Logo" class="image image-light">
   <div class="text">
-    I'm actively seeking new PhD students to join my lab at Georgia Tech. If you're interested, please apply by visiting <a href="https://grad.gatech.edu/admissions" target="_blank">https://grad.gatech.edu/admissions</a>.
-    Feel free to also send me an email at mtucker@gatech.edu with the following items:
+    <a href="https://reg.msu.edu/Courses/Search.aspx?CourseID=329670#Results">**CEP 240 Introduction to Special Education**</a> is an engaging and comprehensive exploration of central topics in special education field designed for MSU undergraduates across all majors. As the instructor for this course, I bring a passion for fostering inclusive learning environment and empowering future educators with the knowledge and skills necessary to support diverse learners.
+
+    **Course Overview:**
     <ul>
-      <li>a brief statement on what you're interested in working on and why</li>
-      <li>an attached CV/resume</li>
+      <li>**Class Size:** A maximum of 24 students</li>
+      <li>**Duration:** 3 hours per week for 15 weeks</li>
+      <li>**Semesters I have taught:** Fall 2022, Spring 2023, Fall 2023</li>
     </ul>
   </div>
 </div>
