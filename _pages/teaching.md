@@ -24,3 +24,15 @@ nav_order: 5
   <li>CEP 803A: Assessment of Students with Mild Disabilities</li>
   <li>CEP 844: Applied Behavior Analysis</li>
 </ul>
+
+## Teacher
+<ul>
+  <li>The Goddard School, Grandview Heights, Ohio. April 2019 - July 2019.</li>
+  <li>The Ohio State University Family Center Community Program, Columbus, Ohio. December 2017 - December 2018.</li>
+</ul>
+
+## Volunteer
+<ul>
+  <li>Ban Pa Mai Daeng School, ChiangMai, Thailand.</li>
+  <li>Eastern Square Primary School, Changchun, China.</li>
+</ul>
