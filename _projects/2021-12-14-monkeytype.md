@@ -2,7 +2,7 @@
 title: "Project 3: CNN Image Classification"
 layout: page
 category: fun
-img: images/portfolio/monkeytype.png
+img: 
 description: "Using convolutional neural network to classify images"
 # tags:
 #   - mechanical keyboards
