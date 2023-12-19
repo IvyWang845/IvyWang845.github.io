@@ -4,7 +4,7 @@ permalink: /research/locomotion
 title: Learning Differences
 header:
 image: images/papers/icra2021-hzd.png
-description: Research thread aims to deepen our understanding of how K-12 students with diverse levels of literacy proficiency exhibit differential use of language. This is achieved by leveraging influential educational theories, such as [Hayes 1996 Cognitive Model of Writing](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203811122-2/new-framework-understanding-cognition-affect-writing-john-hayes) and [Berninger and Winn 2006 Not-so-simple-view of writing](https://books.google.com/books?hl=en&lr=&id=VT7YCz2G-iQC&oi=fnd&pg=PA96&dq=berninger+and+winn+2006+not-so-simple+view+of+writing&ots=Rc6LLjbZfC&sig=C54ssNGuW6O8DYzArCJj9jOeISs#v=onepage&q&f=false).
+description: Research thread aims to deepen our understanding of how K-12 students with diverse levels of literacy proficiency exhibit differential use of language. This is achieved by leveraging influential educational theories, such as Hayes' 1996 Cognitive Model of Writing and Berninger & Winn's 2006 Not-so-simple-view of writing.
 
 nav: false
 ---
