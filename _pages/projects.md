@@ -2,10 +2,10 @@
 layout: page
 title: misc
 permalink: /projects/
-description: A growing collection of various non-research projects, ordered in reverse chronological order and separated into class projects, undergraduate experiences, and simply fun side projects for practicing my analysis techniques.
+description: A growing collection of various non-research projects, ordered in reverse chronological order and separated into class projects, milestones I achieved during my academic journey, and simply fun side projects for practicing my analysis techniques.
 nav: true
 nav_order: 3
-display_categories: [class, fun, undergraduate]
+display_categories: [class, fun, milestones]
 horizontal: false
 ---
 
