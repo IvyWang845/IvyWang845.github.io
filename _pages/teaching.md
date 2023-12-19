@@ -16,7 +16,11 @@ nav_order: 5
   <li>Duration: 3 hours per week for 15 weeks</li>
   <li>Semesters I have taught: Fall 2022, Spring 2023, Fall 2023</li>
 </ul>
+
 ## Teaching Assistant
-    *
-    *
-    *
+<ul>
+  <li>CEP 240: Diverse Learners in Multicultural Perspective</li>
+  <li>CEP 301: Literacy Instruction for Students with Mild Disabilities</li>
+  <li>CEP 803A: Assessment of Students with Mild Disabilities</li>
+  <li>CEP 844: Applied Behavior Analysis</li>
+</ul>
