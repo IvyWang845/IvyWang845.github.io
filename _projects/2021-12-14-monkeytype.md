@@ -1,21 +1,15 @@
 ---
-title: "Monkeytype"
-layout: page-monkeytype
+title: "Project 3: CNN Image Classification"
+layout: page
 category: fun
 img: images/portfolio/monkeytype.png
-description: "Typing Speed Test"
-# tags: 
+description: "Using convolutional neural network to classify images"
+# tags:
 #   - mechanical keyboards
 #   - robotics
 # category: "Fun Side Projects"
-usemathjax: false
-enable_darkmode: false
 ---
 
-<div style="color: white">
-I adopted this typing test code from the monkey-type format, with code available at <a href="https://codepen.io/Miodec/pen/wvaQQRR"> codepen.com </a>. 
-
-The full monkeytype website can be found at <a href="https://monkeytype.com/">www.monkeytype.com</a>.
-
-I'm still working on the code to automatically store the leaderboard online, but until then, send me a screenshot of this page with the updated leaderboard and I'll update the static table in the HTML code.
-</div>
+1. Convolutional Neural Networks (CNNs): These are a type of deep neural network architecture designed specifically for tasks involving images. CNNs are excellent at capturing spatial hierarchies and patterns within an image.
+2. Image Classification: This refers to the task of assigning a label or category to an image based on its content. For example, a CNN trained for image classification might be able to recognize and classify images of different animals, objects, or scenes.
+3. <a href="https://github.com/IvyWang845/Project-Practice-4-CNN-Image-Classification/blob/main/1_CNN_ImageClassification.ipynb">Code</a>

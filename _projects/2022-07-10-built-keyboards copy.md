@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised learning project"
+title: "Project 2: Unsupervised learning project"
 layout: page
 category: fun
 img:
@@ -17,4 +17,4 @@ description: "Use unsupervised learning models to cluster unlabeled documents in
 4. K-means clustering
 5. Topic Modeling using Latent Dirichlet Allocation
 
-<a href="https://github.com/IvyWang845/Project-Practice-2-Unsupervised-Learning/blob/main/Copy_of_Unsupervised_Learning_Project.ipynb">Code</a>
+6. <a href="https://github.com/IvyWang845/Project-Practice-2-Unsupervised-Learning/blob/main/Copy_of_Unsupervised_Learning_Project.ipynb">Code</a>
