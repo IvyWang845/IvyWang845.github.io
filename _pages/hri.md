@@ -3,7 +3,7 @@ layout: page
 permalink: /research/instruction-curriculum
 title: Instruction and Curriculum
 header:
-    image: images/papers/cospar.png
+    image: images/papers/tiered.png
 description: Research thread aims at providing evidence-based teaching strategies and tiered intervention tips for educational practitioners, while accommodating diverse needs of learners.
 nav: false
 ---
