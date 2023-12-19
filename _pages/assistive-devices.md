@@ -3,7 +3,7 @@ layout: page
 permalink: /research/assessment-measurement
 title: Assessment and Measurement
 header:
-    image: images/papers/spinal.png
+    image: images/papers/ML.png
 description: Research thread aims to propose, design, and validate assessment framework as a pivotal driver for the entire learning system.
 nav: false
 ---
