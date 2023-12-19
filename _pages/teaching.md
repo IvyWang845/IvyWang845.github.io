@@ -2,12 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I taught.
+description: Courses I assisted, taught
 nav: false
 nav_order: 5
 ---
 
-## Teaching
-* (TA) Ch21c Spring 2019-2020, with Prof. Jack Beauchamp
-* (TA) Ch1b Winter 2019-2020, with Prof. Tom Miller
-* (TA) Ch1a Fall 2019-2020, with Prof. Nathan Lewis
+<div class="group-description">
+  <img src="{{site.baseurl}}/images/dynamicmobility/dm_logo3.png" alt="Dynamic Mobility Lab Logo" class="image image-light">
+  <img src="{{site.baseurl}}/images/dynamicmobility/dm_logo3_white.png" alt="Dynamic Mobility Lab Logo" class="image image-dark">
+  <div class="text">
+    I'm actively seeking new PhD students to join my lab at Georgia Tech. If you're interested, please apply by visiting <a href="https://grad.gatech.edu/admissions" target="_blank">https://grad.gatech.edu/admissions</a>.
+    Feel free to also send me an email at mtucker@gatech.edu with the following items:
+    <ul>
+      <li>a brief statement on what you're interested in working on and why</li>
+      <li>an attached CV/resume</li>
+    </ul>
+  </div>
+</div>
