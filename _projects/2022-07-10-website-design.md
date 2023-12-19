@@ -2,7 +2,6 @@
 title: "Website Design"
 layout: page
 category: fun
-img:
 description: "Tutorial on creating a website using Jekyll+Github Pages "
 usemathjax: true
 ---
