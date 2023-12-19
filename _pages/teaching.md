@@ -7,8 +7,7 @@ nav: false
 nav_order: 5
 ---
 
-##Course Instructor
-
+## Conference and seminar presentations
 <a href="https://reg.msu.edu/Courses/Search.aspx?CourseID=329670#Results">CEP 240 Introduction to Special Education</a> is an engaging and comprehensive exploration of central topics in special education field designed for MSU undergraduates across all majors. As the instructor for this course, I bring a passion for fostering inclusive learning environment and empowering future educators with the knowledge and skills necessary to support diverse learners.
 
 **Course Overview:**
