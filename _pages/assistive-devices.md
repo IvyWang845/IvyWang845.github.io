@@ -4,13 +4,13 @@ permalink: /research/assistive-devices
 title: Assessment and Measurement
 header:
     image: images/papers/spinal.png
-description: Research thread aimed at evaluating the efficacy of lower-body assistive devices, including the clinical realization of user-preferred locomotion on robotic assistive devices.
+description: Research thread aims to propose, design, and validate assessment framework as a pivotal driver for the entire learning system.
 nav: false
 ---
 
-Ultimately, the success of robotic behaviors can only be evaluated through implementation in the real world. For example, the success of lower-body assistive devices is evaluated through their translation to clinical settings. Thus, my research aims to evaluate the other threads of my research (bipedal locomotion and human-robot interaction) in real-world scenarios, with an emphasis on translating user-customized stable locomotion to clinical settings.
+Open-ended questions(constructed-response assessments in science education) and students' written expressions across various genres and registers offer insights into original thoughts to specific topics and the application of disciplinary knowledge. Unlike other assessment types like multiple-choice items, these methods require responses in students' own words. However, challenges exist in the scoring process marked by subjectivity and the substantial cost of human labor. The automation of scoring processes in such assessments, utilizing statistical predictive modeling and artificial intelligence-driven techniques, presents a promising avenue for enhancing efficiency.
 
-My research towards evaluating lower-body assistive devices thus far has included the analysis of a clinical study evaluating the efficiacy of the Atalante exoskeleton for 12 subjects with paraplegiao ver the course of 12 sessions. Additionally, my research has studied the effect of variable assistance on the metabolic rate of Atalante users.
+In my research endeavors, I have proposed, designed, and refined techniques employing linear regression, machine learning based classifiers, and BERT to evaluate students' writing levels, including their overall writing quality, reasoning efficiency, and expertise levels as my model labels. I have also advocated for the incorporation of features (textual: linguistic and semantic features; and student-related: cognitive levels of topical knowledge) into language models. Alternatively, large language models can be extended innovatively by integrating linguistic features, thematic attributes, and ontological perspectives to fine-tune the model so as to ensure that the model can effectively score students' educational products based on these important features.
 
 <div class="publications">
 
