@@ -3,7 +3,7 @@ layout: page
 permalink: /research/learning-difference
 title: Learning Differences
 header:
-  image: images/papers/icra2021-hzd.png
+  image: images/papers/learning_1.png
 description: Research thread aims to deepen our understanding of how K-12 students with diverse levels of literacy proficiency exhibit differential use of language. This is achieved by leveraging influential educational theories, such as Hayes' 1996 Cognitive Model of Writing and Berninger & Winn's 2006 Not-so-simple-view of writing.
 
 nav: false
