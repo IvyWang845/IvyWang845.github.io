@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/hri
+permalink: /research/instruction-curriculum
 title: Instruction and Curriculum
 header:
     image: images/papers/cospar.png

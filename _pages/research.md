@@ -30,15 +30,15 @@ children:
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="images/papers/LD.jpg" class="img-fluid rounded z-depth-1" overlay="Learning Differences"
-            overlay-url="/research/locomotion" %}
+            overlay-url="/research/learning-difference" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="images/papers/curri.jpg" class="img-fluid rounded z-depth-1" overlay="Instruction and Curriculum"
-        overlay-url="/research/hri" %}
+        overlay-url="/research/instruction-curriculum" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="images/papers/AI.png" class="img-fluid rounded z-depth-1" overlay="Assessment and Measurement"
-        overlay-url="/research/assistive-devices" %}
+        overlay-url="/research/assessment-measurement" %}
     </div>
 </div>
 
