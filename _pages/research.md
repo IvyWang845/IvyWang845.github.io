@@ -11,11 +11,11 @@ children:
     - title: "Overview"
       permalink: /research/
     - title: "Thread 1: Learning Differences"
-      permalink: /research/locomotion
+      permalink: /research/learning-difference
     - title: "Thread 2: Instruction & Curriculum"
-      permalink: /research/hri
+      permalink: /research/instruction-curriculum
     - title: "Thread 3: Assessment & Measurement"
-      permalink: /research/assistive-devices
+      permalink: /research/assessment-measurement
     - title: All Publications
       permalink: /publications/
 ---
