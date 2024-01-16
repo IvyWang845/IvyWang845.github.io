@@ -17,6 +17,8 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+clustrmaps: true  # includes clustrmaps widget at the bottom of the page
+
 ---
 
 Greetings, and thank you for visiting my academic homepage! I am a Ph.D. candidate in Special Education with a concentration on Language and Literacy at <a href="https://education.msu.edu/">Michigan State University</a>, under the expert guidance of Dr. <a href="https://education.msu.edu/people/troia-gary/">Gary A. Troia</a>. In addition, I hold the position of graduate research assistant at the <a href="https://create4stem.msu.edu/">CREATE for STEM Institute</a>, where I collaborate under the mentorship of Dr. <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/100471?org=6&group=63">Kevin C. Haudek</a>.
