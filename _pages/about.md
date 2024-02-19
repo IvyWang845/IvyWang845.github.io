@@ -32,7 +32,7 @@ If you are interested in discussing my research, please reach out at ``wangheq2@
 </center>
 
 
-<font color="red"> <b>Announcement:</b> I am on the job market, open to postdoc opportunities to continue growing my career.</font> 
+<font color="red"> <b>Announcement:</b> I am on the job market now, open to postdoc opportunities to continue growing my career.</font> 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
